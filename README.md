@@ -6,5 +6,5 @@ This project was created with React js.
 
 In this project was used the QR-Reader library to run the website.
 
-# References
+## References
 https://www.npmjs.com/package/react-qr-reader
