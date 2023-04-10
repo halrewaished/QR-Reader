@@ -1,0 +1,16 @@
+.qr-code {
+  margin: 0 auto;
+  max-width: 30%;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h4 {
+  color: red;
+  text-align: center;
+}
