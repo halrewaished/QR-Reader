@@ -1,6 +1,6 @@
 # QR Reader
 
-This project was created with React js. 
+This project was created with React js and using JSON database.
 
 ## The libraries
 
